@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center"><img width="80%" src="imyasmim.png"></a></p>
+
+<br />
+
 
 - 🌱 I’m currently learning HTML, CSS and JAVASCRIPT!
 

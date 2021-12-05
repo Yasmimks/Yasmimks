@@ -1,20 +1,22 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT
+- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT!
 
 <div align="center">
   <a href="https://github.com/Yasmimks">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasmimks&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmimks&layout=compact&langs_count=7&theme=omni"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Yasmimks&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/><img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmimks&layout=compact&langs_count=7&theme=omni"/>
 </div>
   
 <div style="display: inline_block"><br>
    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  
  
   
-  <img align="right" alt="Yas-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/917121602569797655/917121602569797658/917123647641092106">
+  <img align="right" alt="Yas-pic" height="150" style="border-radius:50px;" src="IMG_0720.gif">
 </div>
   
   ##

@@ -4,8 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/Yasmimks">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasmimks&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmimks&layout=compact&langs_count=7&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasmimks&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmimks&layout=compact&langs_count=7&theme=omni"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -23,6 +22,6 @@
   <div> 
   <a href="https://instagram.com/yasmimszii" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:yksasahara.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/yasmim-sasahara-547860212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-    ![Snake animation](https://github.com/Yasmimks/Yasmimks/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Yasmimks/Yasmimks/blob/output/github-contribution-grid-snake.svg)
  
 </div>

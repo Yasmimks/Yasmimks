@@ -21,9 +21,8 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  
 
- 
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
  
   
   <img align="right" alt="Yas-pic" height="150" style="border-radius:50px;" src="IMG_0720.gif">
@@ -33,6 +32,11 @@
   
   <div> 
   <a href="https://instagram.com/yasmimszii" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:yksasahara.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/yasmim-sasahara-547860212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+    
+### < Profile Views >
+
+  <img src="https://profile-counter.glitch.me/Yasmimks/count.svg"/>
     
 ![Snake animation](https://github.com/Yasmimks/Yasmimks/blob/output/github-contribution-grid-snake.svg)
  
